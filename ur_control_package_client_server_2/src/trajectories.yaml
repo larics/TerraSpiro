@@ -1,0 +1,24 @@
+trajectories:
+  traj0:
+    - positions: [3.043128, -1.28824, 0.37179, -0.92208, -1.63632, -0.18]
+      velocities: [0, 0, 0, 0, 0, 0]
+      time_from_start: 
+        sec: 3
+        nanosec: 0
+    - positions: [2.043128, -1.28824, 0.37179, -0.92208, -1.63632, -0.18]
+      velocities: [0, 0, 0, 0, 0, 0]
+      time_from_start: 
+        sec: 5
+        nanosec: 0
+
+  traj1:
+    - positions: [2.043128, -1.28824, 0.37179, -0.92208, -1.63632, -0.18]
+      velocities: [0, 0, 0, 0, 0, 0]
+      time_from_start: 
+        sec: 3
+        nanosec: 0
+    - positions: [3.043128, -1.28824, 0.37179, -0.92208, -1.63632, -0.18]
+      velocities: [0, 0, 0, 0, 0, 0]
+      time_from_start: 
+        sec: 5
+        nanosec: 0
